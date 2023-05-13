@@ -119,3 +119,8 @@ if __name__ == '__main__':
     # Inicia o loop de eventos do asyncio
     asyncio.run(manager.start())
 ```
+Se você gostou deste artigo e quer ver mais exemplos de como utilizar Python e Asyncio em seus projetos, confira o repositório completo no GitHub. Sinta-se à vontade para contribuir com sugestões, melhorias ou mesmo usar o código como base para seus próprios projetos. Esperamos que este artigo tenha sido útil e inspirador para você!"
+
+E aqui está o link para o repositório no Github:
+
+https://github.com/marcorsouza/async_schedule_manager
