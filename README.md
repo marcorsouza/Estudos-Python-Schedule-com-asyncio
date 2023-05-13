@@ -103,12 +103,6 @@ async def start(self):
 
         # Aguarda um curto intervalo para que outras tarefas possam ser executadas
         await asyncio.sleep(1)
-
-if __name__ == '__main__':
-    manager = ScheduleManager()
-
-    # Inicia o loop de eventos do asyncio
-    asyncio.run(manager.start())
 ```
 
 <h2>Executando o programa principal</h2>
